@@ -48,6 +48,16 @@ This project analyses a retail sales dataset to identify trends, patterns, and k
    pip install pandas matplotlib
 3. Run all cells
 
+4. ## Key Insights
+
+- Technology category generated the highest sales
+- Some regions show high sales but lower profitability
+- Sales increase during specific periods (e.g. Q4)
+
+## Conclusion
+
+This analysis highlights how data can be used to identify trends, improve decision-making, and optimise business performance.
+
 ---
 
 ## Author
